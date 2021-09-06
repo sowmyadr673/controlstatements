@@ -3,8 +3,8 @@ package com.xworkz.controlstatement;
 public class Passport {
 public static void main(String[] args) {
 		
-        String nationality = "indian";
-        if(nationality == "canada") {
+        String nationality = "india";
+        if(nationality == "india") {
         	System.out.println("you are eligible");	
         }
         else
